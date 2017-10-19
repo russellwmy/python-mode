@@ -6,9 +6,20 @@
 
 -----
 
-*The project needs contributors*
+For a bleeding edge of this plugin please visit:
+https://github.com/fmv1992/python-mode
 
-** Python-mode Slack Channel is here: https://python-mode.herokuapp.com/ **
+|
+| Several changes were made to it, specially moving copy-pasted python files to
+| submodules.
+| Several other improvements were made.
+| Once these upgrades are approved by a decent user base of python-mode they will
+| be merged here.
+|
+
+**Clone the module recursively (read the readme).**
+
+**Use the dev branch.**
 
 -----
 
